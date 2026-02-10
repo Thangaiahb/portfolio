@@ -1,7 +1,7 @@
 import { useState } from "react";
 import "./App.css";
 
-import profilePic from "./assets/arun2.png"; // ✅ Your Photo
+import profilePic from "./assets/profile-pic.jpeg"; // ✅ Your Photo
 
 export default function App() {
   const [menuOpen, setMenuOpen] = useState(false);
